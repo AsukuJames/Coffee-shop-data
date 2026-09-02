@@ -58,7 +58,7 @@ The dataset was cleaned and prepared before performing the analysis and creating
 
 📌 Add your cleaned dataset screenshot here.
 
-![Cleaned Dataset](images/cleaned-dataset.png)
+![Cleaned Dataset](images/cleaneddataset.png)
 🧹 Data Cleaning and Preparation
 
 Before beginning the analysis, the dataset was reviewed and prepared to ensure it was suitable for reporting and visualization.
@@ -89,11 +89,7 @@ Sales Performance by Time Band
 
 The Pivot Table sheet served as the analysis workspace and provided the foundation for building the final dashboard.
 
-📸 Pivot Table Analysis
 
-📌 You can optionally add a screenshot of your Pivot Table sheet here.
-
-![Pivot Table Analysis](images/pivot-table.png)
 📈 Interactive Dashboard
 
 The final stage of the project involved creating an interactive Coffee Shop Sales Dashboard.
@@ -102,7 +98,6 @@ The dashboard provides a clear overview of sales performance and allows users to
 
 📸 Dashboard Preview
 
-📌 Add your Coffee Shop Dashboard screenshot here.
 
 ![Coffee Shop Sales Dashboard](coffeeshopdashboard.png)
 📊 Key Performance Indicators
@@ -205,9 +200,8 @@ Coffee-Shop-Sales-Analysis/
 ├── README.md
 │
 └── images/
-    ├── cleaned-dataset.png
-    ├── pivot-table.png
-    └── dashboard.png
+    ├── cleaneddataset.png
+    └── coffeeshopdashboard.png
 📌 Conclusion
 
 This project demonstrates my ability to transform raw business data into meaningful insights using Microsoft Excel.
@@ -220,7 +214,7 @@ The interactive dashboard makes it easier for stakeholders to monitor performanc
 
 James Asuku John
 
-📊 Aspiring Data Analyst
+📊 Data Analyst
 💻 Excel | SQL | Power BI
 📈 Turning Data into Actionable Insights
 
