@@ -104,7 +104,7 @@ The dashboard provides a clear overview of sales performance and allows users to
 
 📌 Add your Coffee Shop Dashboard screenshot here.
 
-![Coffee Shop Sales Dashboard](images/dashboard.png)
+![Coffee Shop Sales Dashboard](coffeeshopdashboard.png)
 📊 Key Performance Indicators
 
 The dashboard highlights the following KPIs:
