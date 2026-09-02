@@ -56,9 +56,7 @@ Time Band
 
 The dataset was cleaned and prepared before performing the analysis and creating the dashboard.
 
-📌 Add your cleaned dataset screenshot here.
-
-![Cleaned Dataset](images/cleaneddataset.png)
+![Cleaned Dataset](cleanedcoffeeshopdataset.png)
 🧹 Data Cleaning and Preparation
 
 Before beginning the analysis, the dataset was reviewed and prepared to ensure it was suitable for reporting and visualization.
